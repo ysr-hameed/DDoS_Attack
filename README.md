@@ -32,7 +32,7 @@ Follow these steps to use the script:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ddos-attack-script.git
+git clone https://github.com/ysr-hameed/ddos-attack-script.git
 cd ddos-attack-script
 ```
 
