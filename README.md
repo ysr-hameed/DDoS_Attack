@@ -33,6 +33,8 @@ Follow these steps to use the script:
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/ysr-hameed/DDoS_Attack.git
+```
+```bash
 cd DDos_Attack
 ```
 
