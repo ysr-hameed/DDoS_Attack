@@ -35,7 +35,7 @@ Follow these steps to use the script:
 git clone https://github.com/ysr-hameed/DDoS_Attack.git
 ```
 ```bash
-cd DDos_Attack
+cd DDoS_Attack
 ```
 
 ### Step 2: Run the Script
