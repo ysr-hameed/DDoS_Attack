@@ -40,12 +40,7 @@ cd DDoS_Attack
 
 ### Step 2: Run the Script
 ```bash
-python ddos.py -t <target_ip> -p <port> -t <threads>
-```
-
-### Example Usage
-```bash
-python ddos.py -t 192.168.1.1 -p 80 -t 100
+python ddos.py
 ```
 
 | Parameter | Description |
